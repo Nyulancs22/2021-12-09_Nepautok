@@ -6,6 +6,10 @@
 	margin: 50px auto;
 }
 
+p{
+	text-align: justify;
+}
+
 .left {
 	float: left;
 	margin-bottom: 10px;
