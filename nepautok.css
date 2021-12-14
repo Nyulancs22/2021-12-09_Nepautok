@@ -24,9 +24,15 @@ a{
 	color: darkgray;
 	background-color: lightgray;
 	text-decoration: none;
-	
+
 }
 
 a:hover{
 	color: chocolate;
+}
+
+.vonal{
+	width: 100%;
+	margin: 10px auto;
+	border: 1px solid darkgray;
 }
