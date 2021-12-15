@@ -38,5 +38,8 @@ a:hover{
 }
 
 .img-box{
-	
+	width: 200px;
+	background-color: #eee;
+	padding: 10px;
+	border: 1px solid #999;
 }
